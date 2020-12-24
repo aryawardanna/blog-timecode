@@ -17,7 +17,7 @@
 	<link rel="stylesheet" href="{{ asset('/frontend/css/font-awesome.min.css') }}">
 
 	<!-- Custom stlylesheet -->
-	<link rel="stylesheet" href="/frontend/css/styles.css" />
+	<link rel="stylesheet" href="{{ asset('/frontend/css/styles.css') }}" />
 
 </head>
 
